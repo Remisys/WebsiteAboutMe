@@ -5,6 +5,6 @@ SVGs are created inside the jsx section of the App.js, since I do want to experi
 
 Here are some of the screenshots: 
 
-![screenshot](./public/Foto1.png)
+![screenshot](./public/Foto1.1.png)
 
-![screenshot](./public/Foto2.png)
+![screenshot](./public/Foto2.1.png)
