@@ -1,6 +1,6 @@
 import type { NextPage } from 'next'
 import Image from 'next/image'
-import mypic from '../public/squirrel.jpg'
+
 import Head from 'next/head'
 import {useState} from 'react'
 import Button from './button'
