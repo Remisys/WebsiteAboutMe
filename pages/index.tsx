@@ -38,7 +38,7 @@ const Home: NextPage = () => {
       </nav>
      
 
-      <main className="w-full bg-inherit  bg-gradient-to-r from-yellow-300 to-rose-300">
+      <main className="w-full bg-inherit  bg-gradient-to-r from-yellow-300 to-rose-300  ">
           <svg className="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100" 
              style={{transform: "scale(1,-1)"}}>
 
@@ -58,7 +58,7 @@ const Home: NextPage = () => {
               
               {/**<text x="150" y="125" font-size="60" text-anchor="middle" fill="white">SVG</text>*/}
               </svg>
-              <div className="m-0 w-full bg-gradient-to-r from-purple-500 via-blue-500  to-sky-500  flex flex-col items-center  ">
+              <div className="m-0 w-full bg-gradient-to-r from-purple-500 via-blue-500  to-sky-500  flex flex-col items-center pb-40 ">
              
                 
               <WorkingExperience />
@@ -69,11 +69,7 @@ const Home: NextPage = () => {
      
       </main>
       <footer className="w-full">
-      <div className="m-0 pt-20  w-full bg-gradient-to-r from-purple-500 via-blue-500  to-sky-500 flex flex-row  ">
-                <h1 className="p-12 sm:text-4xl text-3xl font-medium  text-white lg:p-7 hover:underline-offset-[12px] hover:underline">
-                  <a href="mailto:yosef.ian.kurniadi@stud.uni-hannover.de?subject=Hi Yosef">Contact Me</a> 
-                </h1>
-      </div>
+
       </footer>
       
     </div>
