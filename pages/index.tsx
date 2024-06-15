@@ -32,7 +32,7 @@ const Home: NextPage = () => {
       <h1 className=" bg-gradient-to-r from-green-500 to-sky-500 bg-clip-text sm:p-[60px] p-10 font-mono font-black tracking-widest text-transparent xl:text-8xl sm:text-6xl text-4xl">Ian</h1>
       </header>
       <nav className="flex flex-row justify-center items-center w-full grow bg-gradient-to-r from-yellow-300 to-rose-300 py-[100px] m-0 ">
-        <div className="flex flex-row  justify-center  items-center flex-wrap  w-full  px-10 py-5 ">
+        <div className="flex flex-col items-stretch lg:flex-row justify-center  lg:items-center flex-wrap  w-full  px-10 py-5 ">
           {urls.map( (x, index) => (<Button key={index} url={x.url} text={x.text} />))}
         </div>
       </nav>
