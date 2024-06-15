@@ -1,5 +1,5 @@
 
-import type {myType} from './index'
+import type {myType} from '../pages/index'
 
 
 
