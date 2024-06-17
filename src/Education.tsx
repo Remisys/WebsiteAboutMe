@@ -21,7 +21,7 @@ export const Education = () => <div className="max-w-[1400px] w-[90%] mt-20 back
       <ul className="text-start list-disc ml-5 mt-2 font-serif">
         <li>Software project with Angular + Typescript</li>
         <li>Learned Java</li>
-        <li>Done Homeworks and Bachelor thesis in Python </li>
+        <li>Did Homeworks and Bachelor thesis in Python </li>
         <li>Foundational knowledge in Database, Artificial Intelligence, and much more</li>
       </ul>
     </li>

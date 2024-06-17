@@ -18,8 +18,8 @@ export const Volunteer = () => <div className="max-w-[1400px] w-[90%] mt-20 back
       </div>
       <p className="text-start font-serif text-lg">Participated in Indonesian Students Association in Germany. Volunteered in the IT Department.</p>
       <ul className="text-start list-disc ml-5 mt-2 font-serif">
-       <li>Codeveloped an app to gather and visualize information on all Indonesian students and apprentices in Germany </li>
-       <li>Codevelop during the hackathon in St Gallen (CH) a prototype to answer inquiries of a call center per voice with Whisper, GPT4, and Retrieval Augmented Generation (RAG).</li>
+       <li>Codeveloped a web app to gather and visualize information on all Indonesian students and apprentices in Germany </li>
+       <li>Codeveloped during the hackathon in St Gallen (CH) a prototype to answer inquiries at the call center per voice with Whisper, GPT4, and Retrieval Augmented Generation (RAG).</li>
       </ul>
     </li>
 
