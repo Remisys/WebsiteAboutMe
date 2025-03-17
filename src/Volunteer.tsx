@@ -1,5 +1,5 @@
 
-export const Volunteer = () => <div className="max-w-[1400px] w-[90%] mt-20 backdrop-blur-[72px] bg-white/[.7] flex flex-col border-black  rounded-lg text-center  border-solid border-[2px]">
+export const Volunteer = () => <div className=" text-black max-w-[1400px] w-[90%] mt-20 backdrop-blur-[72px] bg-white/[.7] flex flex-col border-black  rounded-lg text-center  border-solid border-[2px]">
   <h1 className="sm:text-4xl text-3xl font-medium  p-7  self-start  ">
     Volunteers
   </h1>
