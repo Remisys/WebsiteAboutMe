@@ -26,8 +26,8 @@ export const WorkingExperience = () => (
           </h3>
         </div>
         <p className="text-start font-serif text-lg">
-          Developing a modern web app on the client side that provides valuable
-          data for planning new wind and solar farms.
+          Full Time Software Developer. Angular and Typescript as main Tech
+          Stack. Hopefully doing full stack soon.
         </p>
         <ul className="text-start list-disc ml-5 mt-2 font-serif">
           <li>
